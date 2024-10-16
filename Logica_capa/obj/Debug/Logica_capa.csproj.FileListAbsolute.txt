@@ -1,0 +1,11 @@
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Logica_capa.dll
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Logica_capa.pdb
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Capa_datos.pdb
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\obj\Debug\Logica_capa.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\obj\Debug\Logica_capa.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\obj\Debug\Logica_c.7378751A.Up2Date
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\obj\Debug\Logica_capa.dll
+C:\Users\redol\source\repos\ProyectoForm\Logica_capa\obj\Debug\Logica_capa.pdb

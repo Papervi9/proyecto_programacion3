@@ -1,0 +1,9 @@
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_datos.pdb
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\bin\Debug\Capa_Entidades.pdb
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.csproj.Up2Date
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.dll
+C:\Users\redol\source\repos\ProyectoForm\Capa_datos\obj\Debug\Capa_datos.pdb

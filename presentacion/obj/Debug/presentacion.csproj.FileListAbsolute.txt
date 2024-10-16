@@ -1,0 +1,7 @@
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\ProyectoForm.Cita.resources
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\ProyectoForm.fmprincipal.resources
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\ProyectoForm.Login.resources
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\redol\source\repos\ProyectoForm\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache

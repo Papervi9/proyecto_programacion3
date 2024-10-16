@@ -1,0 +1,12 @@
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.exe.config
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.exe
+C:\Users\redol\source\repos\ProyectoForm\Visual\bin\Debug\Visual.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.AssemblyReference.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Login.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.exe
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.pdb
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.Dashboard.resources
+C:\Users\redol\source\repos\ProyectoForm\Visual\obj\Debug\Visual.cambiar.resources
